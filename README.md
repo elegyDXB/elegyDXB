@@ -15,10 +15,6 @@
 
 - 📫 How to reach me: You can write me on [mail](mailto:dev@auradev.eu)
 
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -35,16 +31,3 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://godot.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/> </a>
 </p>
-
-<!-- <h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/matrix278"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="matrix278" /></a>
-</p> -->
-
-<div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-    </a>
-</div>
-
-<!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
